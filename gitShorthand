@@ -23,7 +23,10 @@
   alias gl='git log --oneline'
   alias gpl='git pull'
   alias gplr='git pull --rebase'
+  alias gplro='git pull --rebase origin'
   alias gplrom='git pull --rebase origin master'
+  alias gplrogh='git pull --rebase origin gh-pages'
+  alias gplrod='git pull --rebase origin dev'
   alias gplo="git pull origin"
   alias gplom="git pull origin master"
   alias gplod="git pull origin dev"
